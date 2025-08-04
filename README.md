@@ -9,7 +9,6 @@ Each week’s problems are solved in **C++**, and the code is organized into fol
 
 ### 🔹 Week 1
 - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) – `Week1/plusMinus.cpp`
-- (Add more problem links and file names here...)
 
 ### 🔹 Week 2
 - Coming soon...
