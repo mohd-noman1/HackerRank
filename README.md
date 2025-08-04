@@ -9,6 +9,7 @@ Each week’s problems are solved in **C++**, and the code is organized into fol
 
 ### 🔹 Week 1
 - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) – `Week1/plusMinus.cpp`
+- [Mini-Max Sum](https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one) - `Week1/Mini-Max_Sum.cpp`
 
 ### 🔹 Week 2
 - Coming soon...
